@@ -2,7 +2,7 @@
 **garymm/garymm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a software engineer / manager interested in machine learning. Currently open to new professional opportunities, so hit me up.
+I'm a software engineer / manager interested in machine learning.
 
 [Personal site and blog](https://garymm.org).
 
